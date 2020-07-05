@@ -2,6 +2,9 @@
 ### Application developed to study the flutter toll.
 - Currency convertion project, simple and efficient.
 
+### Technologies
+- Flutter 
+
 ## Screens
 
 <p align="left">
